@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "CiveoApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
